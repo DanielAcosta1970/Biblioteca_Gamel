@@ -28,6 +28,7 @@ Funcion fecha_devolucion(dia, mes, anio, cantidad_dias_fuera)
 FinFuncion
 
 Algoritmo libreria_gamel
+	//**Agrego est Comentario Modificando el Codigopara hacer un commit con GIT**//
 	//Debido a que el Lenguaje Pseint no permite tipos de atos diferentes en un mismo Array
 	//Se crearon 2 y tampoco encontre un claro manejo de fechas, solo que se puede dividir
 	//En dia, mes y año, entonces guardo la fecha en 3 casilleros del Array
